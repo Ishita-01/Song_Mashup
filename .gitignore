@@ -1,0 +1,36 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Streamlit Cache
+.streamlit/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Project Folders
+videos/
+audios/
+trimmed/
+
+# Output Files
+mashup_result.zip
+*.mp3
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Logs
+*.log

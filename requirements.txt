@@ -1,0 +1,10 @@
+yt-dlp==2026.2.4
+moviepy==1.0.3
+pydub==0.25.1
+streamlit==1.54.0
+python-dotenv==1.2.1
+imageio==2.37.2
+imageio-ffmpeg==0.6.0
+numpy==2.4.2
+tqdm==4.67.3
+requests==2.32.5
