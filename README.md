@@ -81,6 +81,46 @@ The user enters:
 
 ---
 
+## ▶️ How to Run the Project
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/Ishita-01/Song_Mashup.git
+cd Song_Mashup
+```
+### 2. Create Virtual Environment
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Setup Email Credentials
+
+Create .env file and add:
+
+```bash
+EMAIL_USER=your_email@gmail.com
+EMAIL_PASS=your_app_password
+```
+
+### 5. Install FFmpeg
+
+Download from: https://ffmpeg.org/download.html
+
+### 6. Run Application
+```bash
+streamlit run app.py
+```
+
+---
+
+
 ## 🧩 Input Details
 
 | Parameter | Description | Condition |
